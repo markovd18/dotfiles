@@ -1,0 +1,5 @@
+[user]
+	name = David Markov
+	email = Markov.David@seznam.cz
+[core]
+	autocrlf = input

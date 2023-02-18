@@ -1,0 +1,145 @@
+[ExtractDialog]
+DirHistory[$e]=$HOME/custom-repos/clean-architecture/,$HOME/custom-repos/clean-architecture/semestralni_prace/referencni_rozdeleni/,$HOME/Prace/,$HOME/Skola/DB2/,$HOME/Downloads/
+
+[HTML Settings]
+AutomaticDetectionLanguage=1
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME
+Recent URLs[$e]=file:$HOME/custom-repos/clean-architecture/
+detailViewIconSize=0
+
+[KTextEditor Document]
+Allow End of Line Detection=true
+BOM=false
+Backup Local=false
+Backup Prefix=
+Backup Remote=false
+Backup Suffix=~
+Encoding=UTF-8
+End of Line=0
+Indent On Backspace=true
+Indent On Tab=true
+Indent On Text Paste=false
+Indentation Mode=normal
+Indentation Width=4
+Keep Extra Spaces=false
+Line Length Limit=10000
+Newline at End of File=true
+On-The-Fly Spellcheck=false
+Overwrite Mode=false
+PageUp/PageDown Moves Cursor=false
+Remove Spaces=0
+ReplaceTabsDyn=true
+Show Spaces=0
+Show Tabs=true
+Smart Home=true
+Swap Directory=
+Swap File Mode=1
+Swap Sync Interval=15
+Tab Handling=2
+Tab Width=4
+Trailing Marker Size=1
+Word Wrap=false
+Word Wrap Column=80
+
+[KTextEditor Editor]
+Encoding Prober Type=1
+Fallback Encoding=ISO 8859-15
+
+[KTextEditor Renderer]
+Animate Bracket Matching=false
+Schema=Normal
+Show Indentation Lines=false
+Show Whole Bracket Expression=false
+Word Wrap Marker=false
+
+[KTextEditor View]
+Allow Mark Menu=true
+Auto Brackets=false
+Auto Center Lines=0
+Auto Completion=true
+Backspace Remove Composed Characters=false
+Bookmark Menu Sorting=0
+Chars To Enclose Selection=
+Default Mark Type=1
+Dynamic Word Wrap=true
+Dynamic Word Wrap Align Indent=80
+Dynamic Word Wrap At Static Marker=false
+Dynamic Word Wrap Indicators=1
+Dynamic Wrap not at word boundaries=false
+Fold First Line=false
+Folding Bar=true
+Folding Preview=true
+Icon Bar=false
+Input Mode=0
+Keyword Completion=true
+Line Modification=false
+Line Numbers=false
+Maximum Search History Size=100
+Mouse Paste At Cursor Position=false
+Persistent Selection=false
+Scroll Bar Marks=false
+Scroll Bar Mini Map All=true
+Scroll Bar Mini Map Width=60
+Scroll Bar MiniMap=true
+Scroll Bar Preview=true
+Scroll Past End=false
+Search/Replace Flags=140
+Show Line Count=false
+Show Scrollbars=0
+Show Word Count=false
+Smart Copy Cut=false
+Text Drag And Drop=true
+User Sets Of Chars To Enclose Selection=
+Vi Input Mode Steal Keys=false
+Vi Relative Line Numbers=false
+Word Completion=true
+Word Completion Minimal Word Length=3
+Word Completion Remove Tail=true
+
+[MainWindow]
+Height 1080=480
+Height 1728=703
+Height 864=703
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABA4AAAKOAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+StatusBar=Disabled
+ToolBarsMovable=Disabled
+Width 1536=1038
+Width 1920=844
+Width 3072=1038
+splitterSizes=751,286
+
+[Recent Files]
+File1[$e]=$HOME/Skola/DB2/RDF.rar
+File2[$e]=$HOME/Skola/DB2/RDF/markovda-rdf.zip
+File3[$e]=$HOME/Skola/DB2/DB2.zip
+File4[$e]=$HOME/Skola/DB2/JSON/markovda-json.zip
+File5[$e]=$HOME/Skola/qub-csc7083-prednasky.zip
+File6[$e]=$HOME/Downloads/Metodika_TDD.zip
+File7[$e]=$HOME/Downloads/Normalizovane_TDD_2022_CZ.zip
+File8[$e]=$HOME/Skola/repos/to-array-benchmark/markovd-benchmark.zip
+File9[$e]=$HOME/Downloads/db2sql.zip
+Name1[$e]=RDF.rar
+Name2[$e]=markovda-rdf.zip
+Name3[$e]=DB2.zip
+Name4[$e]=markovda-json.zip
+Name5[$e]=qub-csc7083-prednasky.zip
+Name6[$e]=Metodika_TDD.zip
+Name7[$e]=Normalizovane_TDD_2022_CZ.zip
+Name8[$e]=markovd-benchmark.zip
+Name9[$e]=db2sql.zip
+
+[Viewer]
+Height 1080=671
+Height 1728=346
+Height 864=364
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABgAAAAMVAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1536=566
+Width 1920=884
+Width 3072=527
+Window-Maximized 1080x1920=true
+Window-Maximized 864x1536=true

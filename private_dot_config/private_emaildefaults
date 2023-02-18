@@ -1,0 +1,9 @@
+[Defaults]
+Profile=Default
+
+[PROFILE_Default]
+EmailAddress=markov.david@seznam.cz
+FullName=David Markov
+Organization=
+ReplyAddr=
+ServerType=

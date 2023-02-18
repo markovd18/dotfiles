@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/home/markovda/custom-repos/graphql-backend-nodejs/src'
+let g:netrw_dirhist_8='/home/markovda/Skola/repos/simple'
+let g:netrw_dirhist_7='/home/markovda/Prace/repos/nano-portal'
+let g:netrw_dirhist_6='/home/markovda'
+let g:netrw_dirhist_5='/home/markovda/Prace/repos/nano-portal/frontend/src/pages'
+let g:netrw_dirhist_4='/home/markovda/Prace/repos/nano-portal/frontend/src'
+let g:netrw_dirhist_3='/home/markovda/Prace/repos/nano-portal/frontend'
+let g:netrw_dirhist_2='/home/markovda/Prace/repos/nano-portal'
+let g:netrw_dirhist_1='/home/markovda/custom-repos/go-playgroung/greetings'
+let g:netrw_dirhist_0='/home/markovda/custom-repos/go-playgroung'

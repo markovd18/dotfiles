@@ -1,0 +1,25 @@
+sudo apt-add-repository 'http://cz.archive.ubuntu.com/ubuntu/ focal main restricted'
+sudo apt-add-repository 'http://cz.archive.ubuntu.com/ubuntu/ focal-updates main restricted'
+sudo apt-add-repository 'http://cz.archive.ubuntu.com/ubuntu/ focal universe'
+sudo apt-add-repository 'http://cz.archive.ubuntu.com/ubuntu/ focal-updates universe'
+sudo apt-add-repository 'http://cz.archive.ubuntu.com/ubuntu/ focal multiverse'
+sudo apt-add-repository 'http://cz.archive.ubuntu.com/ubuntu/ focal-updates multiverse'
+sudo apt-add-repository 'http://cz.archive.ubuntu.com/ubuntu/ focal-backports main restricted universe multiverse'
+sudo apt-add-repository 'http://security.ubuntu.com/ubuntu focal-security main restricted'
+sudo apt-add-repository 'http://security.ubuntu.com/ubuntu focal-security universe'
+sudo apt-add-repository 'http://security.ubuntu.com/ubuntu focal-security multiverse'
+sudo apt-add-repository '[arch=amd64] https://packages.microsoft.com/repos/vscode stable main'
+sudo apt-add-repository 'https://typora.io/linux ./'
+sudo apt-add-repository '[arch=amd64] https://dl.google.com/linux/chrome/deb/ stable main'
+sudo apt-add-repository '[arch=amd64,arm64,armhf] http://packages.microsoft.com/repos/code stable main'
+sudo apt-add-repository '[arch=amd64 signed-by=/usr/share/keyrings/signal-desktop-keyring.gpg] https://updates.signal.org/desktop/apt xenial main'
+sudo apt-add-repository 'https://repo.radeon.com/amdgpu/22.20/ubuntu jammy main'
+sudo apt-add-repository 'https://dbeaver.io/debs/dbeaver-ce /'
+sudo apt-add-repository ppa:ondrej/php
+sudo apt-add-repository 'https://swupdate.openvpn.net/community/openvpn3/repos focal main'
+sudo apt-add-repository ppa:gns3/ppa
+sudo apt-add-repository ppa:obsproject/obs-studio
+sudo apt-add-repository ppa:papirus/papirus
+sudo apt-add-repository '[arch=amd64] https://repo.radeon.com/rocm/apt/5.2 ubuntu main'
+sudo apt-add-repository 'http://repository.spotify.com stable non-free'
+sudo apt-add-repository 'https://packagecloud.io/slacktechnologies/slack/debian/ jessie main'
